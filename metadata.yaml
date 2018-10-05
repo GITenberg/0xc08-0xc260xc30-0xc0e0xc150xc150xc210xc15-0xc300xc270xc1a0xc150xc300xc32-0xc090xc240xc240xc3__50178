@@ -26,5 +26,7 @@ language: te
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "ఈ దారి ఎక్కడికి?\r\n(రధచక్రాలు - ఉత్తరగాధ)"
 url: http://www.gutenberg.org/ebooks/50178
